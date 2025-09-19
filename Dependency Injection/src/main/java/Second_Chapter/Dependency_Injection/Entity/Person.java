@@ -1,4 +1,4 @@
-package First_Chapter.Bean.Entity;
+package Second_Chapter.Dependency_Injection.Entity;
 
 public class Person {
     private String name;
