@@ -1,10 +1,10 @@
-package com.conceptandcoding.conditionalonproperty;
+package SpringBootCache.Cache;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConditionalonpropertyApplicationTests {
+class CacheApplicationTests {
 
 	@Test
 	void contextLoads() {
